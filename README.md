@@ -51,7 +51,7 @@ This project focuses on analyzing traffic accident data using Python in Google C
 ![Heatmap](Heatmap.png)
 
 For an interactive experience, open:  
- **[accident_hotspots_map.html](https://drive.google.com/file/d/10EoDV9hRaiLj4EnRI0UC-ALU95n2m993/view?usp=sharing)**
+ **[accident_hotspots_map.html](accident_hotspots_map.html)**
 
 
 ##  License
